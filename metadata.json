@@ -1,0 +1,5 @@
+{
+  "name": "RepoLens Web Console",
+  "description": "A repository intelligence tool that performs deterministic analysis and AI-driven health summarization for GitHub and GitLab repositories.",
+  "requestFramePermissions": []
+}
